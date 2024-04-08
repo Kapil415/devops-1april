@@ -1,1 +1,2 @@
 This is Devops training
+Opened the file using note pad directly from path and saved it for verification purpose and close it to check the changes are visible in vscode or not.

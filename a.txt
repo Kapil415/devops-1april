@@ -6,4 +6,3 @@ New branch Creation and saving the file
 working on task2
 working on task3
 working on Git fetch and rebase
-Git revert to revert changes in the remote
